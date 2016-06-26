@@ -1,0 +1,43 @@
+<style>
+body {
+	background-color: #eee;
+}
+div {
+	width: 620px;
+	height: 900px;
+	margin-left: 350px;
+	background-color: none;
+	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+h2 {
+	color: black;
+	width: 350px;
+	height: 30px;
+	padding-top: 40px;
+	margin-left: 135px
+}
+img {margin-left: 180px}
+hr {
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-bottom: 30px}
+p {margin-left: 55px}
+ul {
+	margin-left: 40px;
+	line-height: 1.5}
+p {
+	font-family: Times New Roman; 
+	font-size: 14pt
+}
+ul {
+	font-family: Times New Roman; 
+	font-size: 14pt
+}
+hr {
+	border: none;
+	background-color: black;
+	color: black;
+	height: 1px
+}
+
+</style>
