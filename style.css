@@ -1,4 +1,3 @@
-<style>
 body {
 	background-color: #eee;
 }
@@ -6,8 +5,8 @@ div {
 	width: 620px;
 	height: 900px;
 	margin-left: 350px;
-	background-color: none;
-	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+	background-color: white;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 h2 {
 	color: black;
@@ -39,5 +38,3 @@ hr {
 	color: black;
 	height: 1px
 }
-
-</style>
